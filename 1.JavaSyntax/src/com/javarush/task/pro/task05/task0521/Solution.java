@@ -1,7 +1,7 @@
 package com.javarush.task.pro.task05.task0521;
 
 /* 
-Выполнение фрагмента кода
+Выполнение фрагмента кода.
 */
 
 public class Solution {
