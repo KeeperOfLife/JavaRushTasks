@@ -1,7 +1,7 @@
 package com.javarush.task.task01.task0142;
 
 /* 
-Амиго очень умный
+Амиго очень умный.
 */
 
 public class Solution {
